@@ -1,0 +1,28 @@
+.col-md-4 > div
+{
+    background-color: #e0b5ff !important;
+}
+.panel-title > a
+{
+    color: #e0b5ff !important;
+}
+.probootstrap-card-text > p > a
+{
+    color: #9729e6;
+}
+.probootstrap-card-text > .category
+{
+    color: #7813c0;
+}
+footer::before
+{
+    background-color: #e0b5ff !important;
+}
+li.active > a
+{
+    color: #e0b5ff !important;
+}
+#contact_container
+{
+    width: 100% !important;
+}
